@@ -1,0 +1,27 @@
+{
+  "project_info": {
+    "project_name": "MelonWorkshop21",
+    "project_id": "MelonWorkshop21",
+    "storage_provider": "github",
+    "repository": "kristapskrumkalns31-pixel/MelonWorkshop21",
+    "repository_branch": "main"
+  },
+  "client": [
+    {
+      "client_info": {
+        "android_client_info": {
+          "package_name": "com.studio27.MelonPlayground"
+        }
+      },
+      "services": {
+        "workshop_service": {
+          "mods": "Mods/",
+          "saves": "Saves/",
+          "icons": "Icons/",
+          "config": "Config/"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
