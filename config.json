@@ -1,1 +1,23 @@
 
+{
+  "manifestId": "6",
+  "startDate": 1794000000000,
+  "version": 1,
+  "expirationDate": 1794604800000,
+  "mods": [
+    {
+      "modId": "YOUR-MOD-ID-1",
+      "author": "Workshop",
+      "name": "Example Mod",
+      "type": "free",
+      "descriptions": [
+        "Example description",
+        "Workshop item"
+      ],
+      "iconURL": "https://raw.githubusercontent.com/kristapskrumkalns31-pixel/MelonWorkshop21/main/ModImages/example.png",
+      "contentURL": "https://raw.githubusercontent.com/kristapskrumkalns31-pixel/MelonWorkshop21/main/Mods/example.melmod",
+      "fileSize": 28898
+    }
+  ]
+}
+
